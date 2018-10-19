@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1521232501529,5803,Run browser,200,OK,Main thread 1-1,text,true,,17806,0,1,1,0,0,0
+1521232509604,16155,Prepare ui,200,OK,Main thread 1-1,text,true,,420921,0,1,1,0,0,0
+1521232525923,1429,Add Equipment dialog,200,OK,Main thread 1-1,text,true,,420677,0,1,1,0,0,0
+1521232557753,1928,Search for appropriate Rack,200,OK,Main thread 1-1,text,true,,412117,0,1,1,0,0,0

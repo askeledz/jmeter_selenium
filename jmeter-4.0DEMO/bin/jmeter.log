@@ -1,0 +1,321 @@
+2018-10-19 10:15:36,788 INFO o.a.j.u.JMeterUtils: Setting Locale to en_HR
+2018-10-19 10:15:36,817 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2018-10-19 10:15:36,818 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: java.version=1.8.0_152
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: os.arch=x86_64
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: os.version=10.13.6
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: Max memory     =1908932608
+2018-10-19 10:15:36,826 INFO o.a.j.JMeter: Available Processors =4
+2018-10-19 10:15:36,833 INFO o.a.j.JMeter: Default Locale=English (Croatia)
+2018-10-19 10:15:36,834 INFO o.a.j.JMeter: JMeter  Locale=English (Croatia)
+2018-10-19 10:15:36,834 INFO o.a.j.JMeter: JMeterHome=/Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/jmeter-4.0DEMO
+2018-10-19 10:15:36,834 INFO o.a.j.JMeter: user.dir  =/Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/jmeter-4.0DEMO/bin
+2018-10-19 10:15:36,834 INFO o.a.j.JMeter: PWD       =/Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/jmeter-4.0DEMO/bin
+2018-10-19 10:15:36,863 INFO o.a.j.JMeter: IP: 192.168.1.7 Name: MacBookPro.local FullName: 192.168.1.7
+2018-10-19 10:15:36,864 INFO o.a.j.JMeter: user.classpath=C:devapache-jmeter-4.0libselenide-4.2.1.jar;C:devapache-jmeter-4.0libselenium-java-3.11.0.jar
+2018-10-19 10:15:36,864 WARN o.a.j.JMeter: Can't read C
+2018-10-19 10:15:36,864 WARN o.a.j.JMeter: Can't read devapache-jmeter-4.0libselenide-4.2.1.jar;C
+2018-10-19 10:15:36,864 WARN o.a.j.JMeter: Can't read devapache-jmeter-4.0libselenium-java-3.11.0.jar
+2018-10-19 10:15:39,009 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-10-19 10:15:39,042 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2018-10-19 10:15:39,042 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2018-10-19 10:15:39,165 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-10-19 10:15:40,316 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-10-19 10:15:40,316 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-10-19 10:15:43,965 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-19 10:15:43,966 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-19 10:15:43,967 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-19 10:15:43,967 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-10-19 10:15:43,967 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-10-19 10:15:43,967 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-10-19 10:15:44,734 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-10-19 10:15:44,736 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/jmeter-4.0DEMO/bin/proxyserver.jks
+2018-10-19 10:15:44,935 INFO o.a.j.s.FileServer: Default base='/Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/jmeter-4.0DEMO/bin'
+2018-10-19 10:15:45,261 INFO o.j.r.PluginManager: Plugins Status: [jpgc-casutg=2.5, jpgc-perfmon=2.1, jpgc-plugins-manager=0.19, jpgc-webdriver=2.3, jmeter-core=4.0, jmeter-ftp=4.0, jmeter-http=4.0, jmeter-jdbc=4.0, jmeter-jms=4.0, jmeter-junit=4.0, jmeter-java=4.0, jmeter-ldap=4.0, jmeter-mail=4.0, jmeter-mongodb=4.0, jmeter-native=4.0, jmeter-tcp=4.0, jmeter-components=4.0]
+2018-10-19 10:15:45,264 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-casutg, jpgc-plugins-manager, jpgc-webdriver]
+2018-10-19 10:15:45,485 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-10-19 10:15:45,485 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-10-19 10:15:45,485 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-10-19 10:15:45,486 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-10-19 10:15:55,642 INFO o.a.j.g.a.Load: Loading file: /Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/cobe-webui-demo.jmx
+2018-10-19 10:15:55,643 INFO o.a.j.s.FileServer: Set new base='/Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui'
+2018-10-19 10:15:55,868 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-10-19 10:15:55,874 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-10-19 10:15:55,876 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-10-19 10:15:55,881 INFO o.a.j.s.SaveService: Loading file: /Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui/cobe-webui-demo.jmx
+2018-10-19 10:15:56,359 INFO o.a.j.s.FileServer: Set new base='/Users/askeledzija/Documents/Private/Development/workspace/cobeisfresh/autotest-jmeter-webui'
+2018-10-19 10:16:01,434 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-10-19 10:16:01,435 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-19 10:16:01,436 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-19 10:16:01,448 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-10-19 10:16:01,690 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Main loop
+2018-10-19 10:16:01,690 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Main loop.
+2018-10-19 10:16:01,690 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-10-19 10:16:01,691 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-10-19 10:16:01,705 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-10-19 10:16:01,705 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-10-19 10:16:01,709 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-1
+2018-10-19 10:16:32,529 INFO o.a.j.g.a.Start: Shutting test down
+2018-10-19 10:16:32,571 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-1
+2018-10-19 10:16:34,106 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-1
+2018-10-19 10:16:34,106 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-10-19 10:16:34,107 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-10-19 10:16:48,710 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-10-19 10:16:48,711 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-19 10:16:48,729 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-10-19 10:16:48,945 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Main loop
+2018-10-19 10:16:48,945 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group Main loop.
+2018-10-19 10:16:48,945 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-10-19 10:16:48,945 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=3 ramp-up=1 perThread=333.33334 delayedStart=false
+2018-10-19 10:16:48,964 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-10-19 10:16:48,964 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-10-19 10:16:48,966 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-1
+2018-10-19 10:16:48,982 WARN c.g.j.p.w.c.WebDriverConfig: Thread: Main loop 1-1 already has a WebDriver(ChromeDriver: chrome on MAC (60f0c21ac70b4b7782349f4277c5696a)) associated with it. ThreadGroup can only contain a single WebDriverConfig.
+2018-10-19 10:16:49,303 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-2
+2018-10-19 10:16:49,634 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-3
+2018-10-19 10:16:51,548 ERROR o.a.j.t.JMeterThread: Error calling threadStarted
+org.openqa.selenium.WebDriverException: unknown error: failed to change window state to maximized, current state is normal
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 119 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64879}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.NkldiY}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: be68974e69cfd2e2382013f8b16e0260
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_152]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_152]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:945) ~[selenium-remote-driver-2.52.0.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.WebDriverConfig.getPreparedBrowser(WebDriverConfig.java:235) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.WebDriverConfig.threadStarted(WebDriverConfig.java:220) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread$ThreadListenerTraverser.addNode(JMeterThread.java:676) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jorphan.collections.HashTree.traverseInto(HashTree.java:994) [jorphan.jar:4.0 r1823414]
+	at org.apache.jorphan.collections.HashTree.traverse(HashTree.java:977) [jorphan.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.threadStarted(JMeterThread.java:644) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.initRun(JMeterThread.java:632) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:246) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:52,319 ERROR o.a.j.t.JMeterThread: Error calling threadStarted
+org.openqa.selenium.WebDriverException: unknown error: failed to change window state to maximized, current state is normal
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 116 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64889}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.p6E6Jx}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d88c434d11c26b766c3ed5c12d8d9fe9
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_152]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_152]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:945) ~[selenium-remote-driver-2.52.0.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.WebDriverConfig.getPreparedBrowser(WebDriverConfig.java:235) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.WebDriverConfig.threadStarted(WebDriverConfig.java:220) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread$ThreadListenerTraverser.addNode(JMeterThread.java:676) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jorphan.collections.HashTree.traverseInto(HashTree.java:994) [jorphan.jar:4.0 r1823414]
+	at org.apache.jorphan.collections.HashTree.traverse(HashTree.java:977) [jorphan.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.threadStarted(JMeterThread.java:644) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.initRun(JMeterThread.java:632) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:246) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:53,767 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Run browser'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:54,520 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Run browser'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:54,569 ERROR c.g.j.p.w.s.WebDriverSampler: no such element: Unable to locate element: {"method":"css selector","selector":"[type="email"]"}
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64524}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.BS6vZM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 60f0c21ac70b4b7782349f4277c5696a
+*** Element info: {Using=css selector, value=[type="email"]}
+2018-10-19 10:16:55,972 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Login'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:56,724 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Login'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:58,176 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Click viewBox'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:16:58,929 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Click viewBox'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:17:00,379 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Click Users'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:17:01,131 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Click Users'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:17:02,581 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Click viewBox'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:17:03,337 ERROR o.a.j.t.JMeterThread: Error while processing sampler: 'Click viewBox'.
+java.lang.IllegalArgumentException: Browser has not been configured.  Please ensure at least 1 WebDriverConfig is created for a ThreadGroup.
+	at com.googlecode.jmeter.plugins.webdriver.sampler.WebDriverSampler.sample(WebDriverSampler.java:62) ~[jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:490) ~[ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:416) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:250) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:17:03,528 INFO o.a.j.g.a.Start: Stopping test
+2018-10-19 10:17:03,581 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-2
+2018-10-19 10:17:03,582 WARN o.a.j.t.JMeterThread: Sampler is not Interruptible: Click viewBox
+2018-10-19 10:17:03,583 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-1
+2018-10-19 10:17:03,583 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2018-10-19 10:17:03,583 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2018-10-19 10:17:03,583 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-2
+2018-10-19 10:17:03,583 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-1
+2018-10-19 10:17:03,583 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-3
+2018-10-19 10:17:03,584 WARN o.a.j.t.JMeterThread: Sampler is not Interruptible: Click viewBox
+2018-10-19 10:17:03,585 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2018-10-19 10:17:03,585 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-3
+2018-10-19 10:17:03,585 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-10-19 10:17:03,585 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-10-19 10:17:29,133 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-10-19 10:17:29,134 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-10-19 10:17:29,146 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-10-19 10:17:29,360 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Main loop
+2018-10-19 10:17:29,360 INFO o.a.j.e.StandardJMeterEngine: Starting 3 threads for group Main loop.
+2018-10-19 10:17:29,360 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-10-19 10:17:29,361 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=3 ramp-up=1 perThread=333.33334 delayedStart=false
+2018-10-19 10:17:29,383 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-10-19 10:17:29,383 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-10-19 10:17:29,387 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-1
+2018-10-19 10:17:29,413 WARN c.g.j.p.w.c.WebDriverConfig: Old browser object is inaccessible, will create new
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64524}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.BS6vZM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 60f0c21ac70b4b7782349f4277c5696a
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_152]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_152]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_152]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_152]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701) ~[selenium-remote-driver-2.52.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:326) ~[selenium-remote-driver-2.52.0.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.WebDriverConfig.hasThreadBrowser(WebDriverConfig.java:284) [jmeter-plugins-webdriver-2.3.jar:?]
+	at com.googlecode.jmeter.plugins.webdriver.config.WebDriverConfig.threadStarted(WebDriverConfig.java:214) [jmeter-plugins-webdriver-2.3.jar:?]
+	at org.apache.jmeter.threads.JMeterThread$ThreadListenerTraverser.addNode(JMeterThread.java:676) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jorphan.collections.HashTree.traverseInto(HashTree.java:994) [jorphan.jar:4.0 r1823414]
+	at org.apache.jorphan.collections.HashTree.traverse(HashTree.java:977) [jorphan.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.threadStarted(JMeterThread.java:644) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.initRun(JMeterThread.java:632) [ApacheJMeter_core.jar:4.0 r1823414]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:246) [ApacheJMeter_core.jar:4.0 r1823414]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_152]
+2018-10-19 10:17:29,722 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-2
+2018-10-19 10:17:30,055 INFO o.a.j.t.JMeterThread: Thread started: Main loop 1-3
+2018-10-19 10:17:44,638 ERROR c.g.j.p.w.s.WebDriverSampler: chrome not reachable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65203}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.15sCJI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a9316be9f920d0db2295096c259311f4
+*** Element info: {Using=css selector, value=[href="\/"] div:nth-of-type(1) div:nth-of-type(1) div}
+2018-10-19 10:17:46,873 ERROR c.g.j.p.w.s.WebDriverSampler: chrome not reachable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65203}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.15sCJI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a9316be9f920d0db2295096c259311f4
+*** Element info: {Using=css selector, value=[viewBox]}
+2018-10-19 10:17:47,314 ERROR c.g.j.p.w.s.WebDriverSampler: chrome not reachable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65208}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.KrcmHf}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e88f2ef87c6c4ca1b4a4531183646157
+*** Element info: {Using=css selector, value=[viewBox]}
+2018-10-19 10:17:49,103 ERROR c.g.j.p.w.s.WebDriverSampler: chrome not reachable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBookPro.local', ip: '192.168.1.7', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=MAC, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:65203}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052), userDataDir=/var/folders/j_/s4lg67ln6kn98w1z0md72b040000gn/T/.org.chromium.Chromium.15sCJI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.67, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: a9316be9f920d0db2295096c259311f4
+*** Element info: {Using=css selector, value=[href="\/"] div:nth-of-type(1) div:nth-of-type(1) div}
+2018-10-19 10:17:49,200 INFO o.a.j.g.a.Start: Stopping test
+2018-10-19 10:17:49,341 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-3
+2018-10-19 10:17:49,342 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-1
+2018-10-19 10:17:49,342 INFO o.a.j.t.JMeterThread: Stopping: Main loop 1-2
+2018-10-19 10:17:49,342 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2018-10-19 10:17:49,343 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-3
+2018-10-19 10:17:49,343 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2018-10-19 10:17:49,343 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-1
+2018-10-19 10:17:49,343 WARN o.a.j.t.JMeterThread: The delay timer was interrupted - probably did not wait as long as intended.
+2018-10-19 10:17:49,344 INFO o.a.j.t.JMeterThread: Thread finished: Main loop 1-2
+2018-10-19 10:17:49,344 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-10-19 10:17:49,345 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
